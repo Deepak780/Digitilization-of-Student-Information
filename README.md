@@ -12,3 +12,5 @@ In the Software we can register as a user and user is of as a administrator. Adm
 ### Running the project
 1. Open the XAMPP server and run it.
 2. The Project starts from `index.html`.
+
+To have the full description of this project, refer Documentation of this project file named `Documentation`.
