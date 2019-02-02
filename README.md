@@ -8,6 +8,7 @@ In the Software we can register as a user and user is of as a administrator. Adm
 * Html
 * CSS
 * PHP
+* SQL
 * XAMPP server
 ### Running the project
 1. Open the XAMPP server and run it.
